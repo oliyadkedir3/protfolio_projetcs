@@ -4,8 +4,8 @@ import os
 
 def generate_fake_commits():
     # Define the start and end dates for the year 2023
-    start_date = datetime.datetime(2023, 1, 1)
-    end_date = datetime.datetime(2023, 12, 31)
+    start_date = datetime.datetime(2022, 1, 1)
+    end_date = datetime.datetime(2022, 12, 31)
 
     # Loop through each day of the year
     current_date = start_date
